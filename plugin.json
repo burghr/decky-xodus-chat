@@ -1,0 +1,14 @@
+{
+  "name": "XBOX Chat",
+  "author": "burghr",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "social",
+      "xbox"
+    ],
+    "description": "Read and send Xbox messages through Xodus Nexus without leaving the game.",
+    "image": ""
+  }
+}
